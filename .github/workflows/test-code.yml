@@ -16,7 +16,7 @@ jobs:
             - name: Install pytest
               run: |
                 python -m pip install pytest
-            - name: Install pytest
+            - name: Run the test
               run: |
                 python -m pytest main.py
             

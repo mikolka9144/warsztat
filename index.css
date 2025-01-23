@@ -1,0 +1,12 @@
+.balls{
+    width: 25%;
+    height: 100px;
+}
+.tbl{
+    border: 1em dashed green ;
+}
+td{
+    border-color: red;
+    border-width: 3px;
+    border-style: groove;
+}
